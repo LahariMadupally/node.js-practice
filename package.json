@@ -1,0 +1,25 @@
+{
+  "name": "node.js-practice",
+  "version": "1.0.0",
+  "description": "practicing nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LahariMadupally/node.js-practice.git"
+  },
+  "author": "Lahari madupally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LahariMadupally/node.js-practice/issues"
+  },
+  "homepage": "https://github.com/LahariMadupally/node.js-practice#readme",
+  "dependencies": {
+    "events": "^3.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security"
+  }
+}
